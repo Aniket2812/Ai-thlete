@@ -1,6 +1,6 @@
 Ai-thlete
 
-Ai-thlete is an AI-powered fitness application designed to help users track their workouts, monitor their performance, and optimize their training. By integrating advanced technology with user-friendly features, Ai-thlete aims to enhance the fitness journey for both beginners and experienced athletes.
+Ai-thlete is an AI-powered fitness application designed to help college students to track their workouts, monitor their performance, and optimize their training. By integrating advanced technology with user-friendly features, Ai-thlete aims to enhance the fitness journey for both beginners and experienced athletes.
 
 🚀 Features
 
